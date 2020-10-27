@@ -1,0 +1,168 @@
+body{
+ background:#F1EEE8;
+ font-family: arial;    
+    
+}h2{
+ font-size:23px;    
+     
+    
+}
+
+img{
+    width: 100%;
+    
+   
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background:#Fff;
+    padding:20px 50px; 
+   
+   
+}
+p{
+ 
+  font-size: 18px;  
+    
+}
+
+.btn_p{
+    background: #3d138d;
+    display: inline-block;
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: 0.2s;
+}
+.btn_p:hover {
+    background: rgba(74, 19, 224, 0.94);
+    padding: 14px 24px;
+   
+}
+.btn_1:hover{
+  background: rgba(74, 19, 224, 0.94);
+    padding: 30px 50px;
+    border-radius: 10px   
+}.btn_1{
+    background: #3d138d;
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: 0.5s;
+    }
+.btn_2:hover{
+  background: rgba(245, 255, 0, 0.84) ;
+    padding: 10px 50px 10px 50px;
+          
+}
+.btn_2{
+    background: rgba(255, 255, 0, 0.65) ;
+    color: #ff0062;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: 0.5s;
+
+    }.btn_3:hover{
+  background: #4d4545;
+        border-radius: 4px;
+        }.btn_3{
+    background: red ;
+    color: #ffe1e1;
+    padding: 10px 20px; 
+    border-radius: 4px;
+    text-decoration: none;
+    transition: 0.5s;
+            }
+
+li{
+    
+}
+.menu{
+    margin-bottom: 30px;
+}
+.menu__link{
+    text-decoration: none;
+    margin-right: 20px;
+    color: #000000 ;
+   
+    border-right: 1px solid #000000;
+    padding-right: 10px;
+    font-size: 18px;
+    transition: 0.1s;
+    padding-bottom: 5px;
+   
+}
+.menu__link:hover{
+    border-bottom: 3px solid rgba(74, 19, 224, 0.94);
+    color:rgba(74, 19, 224, 0.94); 
+    
+}
+LI{
+    margin-bottom: 5PX;
+}
+@media(max-width:480px){
+   
+    .menu__link{
+        font-size: 28px;
+    }
+    h2{
+        font-size: 37px;
+    }
+    p{
+       font-size: 29px; 
+    }
+    a{
+        padding: 15px 35px;
+        font-size: 20px;
+    }li{
+       font-size: 29px;  
+    }
+    }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
