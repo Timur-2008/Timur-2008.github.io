@@ -105,6 +105,10 @@ li{
 LI{
     margin-bottom: 5PX;
 }
+footer{
+    border-top: 1px solid #dce1e6;
+    margin-top: 20px;
+}
 @media(max-width:480px){
    
     .menu__link{
@@ -122,7 +126,8 @@ LI{
     }li{
        font-size: 29px;  
     }
-    }  
+    }
+
 
 
 
